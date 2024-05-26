@@ -1,0 +1,71 @@
+body {
+    background-image: url('../fundo\ do\ site.jpeg'); 
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 5;
+    padding: 10;
+}
+
+header {
+    background-color: #f8f8f8;
+    color: #000000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #611951;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+}
+
+.contact {
+    padding: 20px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+}
+img {
+    width: 40%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+table {
+    width:500px;
+    border-collapse: collapse; 
+}
+
+
+td {
+    border: 1px solid #ddd;
+    padding: 8px; 
+    text-align: center; 
+}
